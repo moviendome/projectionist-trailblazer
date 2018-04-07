@@ -1,0 +1,11 @@
+{
+  "app/concepts/**/operations/*.rb": {
+    "type": "operation"
+  },
+  "app/cells/**/*_cell.rb": {
+    "type": "cell"
+  },
+  "app/cells/*.haml": {
+    "type": "cellview"
+  }
+}
